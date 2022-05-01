@@ -38,3 +38,5 @@ ARAÇLARINI İNDİREBİLİRSİNİZ..
 Instagram/ instagram.com/burakgresmi
 Telegram/ t.me/burakgresmi
 Github/ github.com/burakgresmi
+
+. . . . SAYGILARIMLA . . . .
