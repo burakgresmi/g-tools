@@ -3,11 +3,17 @@
 NASIL KULLANILIR ?
 
 pkg install git
+
 pkg install python
+
 git clone https://github.com/burakgresmi/g-tools
+
 cd g-tolss
+
 chmod +x g-tools.py
+
 python g-tools.py
+
 
 TOOL ÖZELLİĞİ:
 
